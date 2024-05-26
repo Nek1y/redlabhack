@@ -9,8 +9,19 @@
   В современных ИТ-инфраструктурах простои могут приводить к значительным финансовым потерям и снижению производительности.
 </h2>
 <h1>Решение и архитектура модели</h1>
-<h2>...</h2>
+<h2></h2>
+- Local Outlier Factor (lof) <a href="https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_outlier_detection.html#:~:text=The%20Local%20Outlier%20Factor%20(LOF,with%20respect%20to%20its%20neighbors.">Ref</a>
+
+- Clustering-Based Local Outlier (cluster)
+
+- Connectivity-Based Local Outlier	(cof)
+
+- K-Nearest Neighbors  (knn)
+
+- Minimum Covariance Determinant (mcd) <a href="https://scikit-learn.org/stable/modules/generated/sklearn.covariance.MinCovDet.html"> Ref</a>
 <h1>Как скачать и запустить модель</h1>
+<h2>Download Models </h2>
+<a href = "https://drive.google.com/file/d/1IrjoO7XTpBld4SzTkGnwtUcWiuTYF7fH/view?usp=drive_link" ><b>Download here </b> </a>
 <h1>Метрики для оценки точности модели</h1>
 <h2>Оценка значения <b>SNR</b></h2>
 
